@@ -257,3 +257,8 @@ p { margin: 0 0 1em; }
   .hero-photo { min-height: 70vh; padding: 64px 0 100px; }
   .hero-photo::before { background: linear-gradient(0deg, rgba(10,10,12,.92) 0%, rgba(10,10,12,.6) 60%, rgba(10,10,12,.4) 100%); }
 }
+
+/* Hero photo tweaks (leader): keep the car in frame on phones, readable eyebrow over photos */
+.hero-photo .hero-bg { object-position: 50% 60%; }
+.hero-photo .eyebrow { color: #b48cff; text-shadow: 0 1px 6px rgba(0,0,0,.8); }
+@media (max-width: 860px) { .hero-photo .hero-bg { object-position: 68% 60%; } }
