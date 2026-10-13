@@ -37,8 +37,12 @@
         <img src="assets/img/photos/radical-storm-sky.jpg" alt="Purple Radical on the track under a dramatic storm sky" style="width:100%;aspect-ratio:21/9;object-fit:cover;object-position:center 60%;margin-bottom:32px">
         <p class="reveal">Sponsors, press, fans, future teammates: we like hearing from all of you.</p>
         <div class="section-head reveal"><span class="eyebrow">Contact form</span><h2>Send Us a Message</h2></div>
-        <!-- TODO: connect form (Formspree) -->
-        <form class="form reveal" action="#" method="post">
+        <!-- Sent by FormSubmit (formsubmit.co) to the team inbox; the first message ever sent needs a one-time activation click in that inbox. -->
+        <form class="form reveal" action="https://formsubmit.co/stickermoneyllc@gmail.com" method="post">
+          <input type="hidden" name="_subject" value="New message from stickermoneyracing website">
+          <input type="hidden" name="_template" value="table">
+          <input type="hidden" name="_next" value="https://nicholaspearson418-dot.github.io/sticker-money-racing/contact.html?sent=1">
+          <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
           <div><label for="name">Name (required)</label><input id="name" name="name" required></div>
           <div><label for="email">Email (required)</label><input id="email" name="email" type="email" required></div>
           <div><label for="type">I'm a...</label><select id="type" name="type">
@@ -46,19 +50,16 @@
           <div><label for="subject">Subject</label><input id="subject" name="subject"></div>
           <div><label for="msg">Message (required)</label><textarea id="msg" name="msg" required></textarea></div>
           <button class="btn" type="submit">Send Message</button></form>
-        <p hidden>Message sent. We'll be in touch faster than a Radical on slicks.</p>
-        <p hidden>Something went wrong. Try again or email us directly.</p>
+        <p id="sent-msg" class="chrome-text" hidden><strong>Message sent. We'll be in touch faster than a Radical on slicks.</strong></p>
+        <script>if (/[?&]sent=1/.test(location.search)) document.getElementById('sent-msg').hidden = false;</script>
       </div>
     </section>
     <hr class="stripes">
     <section class="section section-alt">
       <div class="container">
         <div class="section-head reveal"><span class="eyebrow">Direct contact</span><h2>Prefer Email?</h2></div>
-        <ul class="reveal">
-          <li>General: [TBD]</li>
-          <li>Sponsorship: [TBD]</li>
-          <li>Media: [TBD]</li>
-        </ul>
+        <p class="reveal">Sponsorship, media or anything else: <a href="mailto:stickermoneyllc@gmail.com">stickermoneyllc@gmail.com</a></p>
+        <div class="btn-row reveal"><a class="btn" href="mailto:stickermoneyllc@gmail.com?subject=Sponsorship%20enquiry">Email about sponsorship</a></div>
       </div>
     </section>
     <section class="section">
