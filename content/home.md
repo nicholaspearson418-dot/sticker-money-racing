@@ -26,7 +26,7 @@ Our Toyota GR Supra GT4: a road car you know, turned into a World Racing League 
 Event: [TBD]
 Date: [TBD]
 Venue: [TBD]
-Series: World Racing League (WRL)
+Series: [TBD] (WRL for the GT4, Radical Cup or SCCA for the Radical)
 **Button:** Full Results
 
 ## Why partner with us
