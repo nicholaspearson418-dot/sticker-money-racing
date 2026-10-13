@@ -28,7 +28,7 @@ GT4 is a class of race cars developed from road-going sports cars. They keep the
 
 | Spec | Value |
 |---|---|
-| Model | [TBD] |
+| Model | Radical SR3 (x3: #2, #418 1500cc; #48 1340cc) |
 | Car number | [TBD] |
 | Engine | [TBD] |
 | Power | [TBD] |
