@@ -2,7 +2,7 @@
 
 ## Hero
 **Headline:** Meet the Team
-**Subline:** The people behind the stickers.
+**Subline:** The people behind Sticker Money Racing.
 
 ## Intro
 **Section title:** Who We Are
