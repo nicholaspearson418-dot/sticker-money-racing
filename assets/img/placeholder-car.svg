@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-label="Car photo placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141418"/><stop offset="1" stop-color="#2a1259"/></linearGradient>
+    <linearGradient id="c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4f4f6"/><stop offset=".5" stop-color="#9a9aa3"/><stop offset="1" stop-color="#e6e6ea"/></linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bg)"/>
+  <g fill="#7b2cff" opacity=".35"><polygon points="0,300 520,300 500,312 0,312"/><polygon points="0,330 640,330 624,338 0,338"/></g>
+  <path d="M110 270 L170 215 Q200 190 270 185 L470 180 Q560 182 620 215 L700 245 Q720 255 715 270 Z" fill="url(#c)" stroke="#7b2cff" stroke-width="4"/>
+  <path d="M250 205 L330 195 L430 195 L500 207 L440 232 L290 232 Z" fill="#0a0a0c"/>
+  <rect x="660" y="232" width="70" height="8" fill="#7b2cff" transform="skewX(-20)"/>
+  <circle cx="230" cy="275" r="42" fill="#0a0a0c" stroke="#9a9aa3" stroke-width="6"/><circle cx="230" cy="275" r="14" fill="#9a9aa3"/>
+  <circle cx="600" cy="275" r="42" fill="#0a0a0c" stroke="#9a9aa3" stroke-width="6"/><circle cx="600" cy="275" r="14" fill="#9a9aa3"/>
+  <text x="400" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="6" fill="#9a9aa8">CAR PHOTO [TBD]</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Team photo placeholder">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141418"/><stop offset="1" stop-color="#2a1259"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <g fill="#9a9aa3">
+    <circle cx="260" cy="170" r="38"/><path d="M190 330 Q190 230 260 230 Q330 230 330 330 Z"/>
+    <circle cx="400" cy="150" r="44"/><path d="M320 340 Q320 215 400 215 Q480 215 480 340 Z"/>
+    <circle cx="540" cy="170" r="38"/><path d="M470 330 Q470 230 540 230 Q610 230 610 330 Z"/>
+  </g>
+  <rect x="0" y="340" width="800" height="10" fill="#7b2cff"/>
+  <text x="400" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="6" fill="#9a9aa8">TEAM PHOTO [TBD]</text>
+</svg>

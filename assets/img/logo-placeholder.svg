@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 90" role="img" aria-label="SMR logo placeholder">
+  <defs>
+    <linearGradient id="c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4f4f6"/><stop offset=".5" stop-color="#9a9aa3"/><stop offset="1" stop-color="#e6e6ea"/></linearGradient>
+    <linearGradient id="p" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4b1599"/><stop offset="1" stop-color="#7b2cff"/></linearGradient>
+  </defs>
+  <polygon points="10,8 230,8 214,82 0,82" fill="#0a0a0c" stroke="url(#p)" stroke-width="3"/>
+  <text x="115" y="62" text-anchor="middle" font-family="Impact, 'Arial Narrow', sans-serif" font-style="italic" font-size="56" letter-spacing="4" fill="url(#c)">SMR</text>
+  <rect x="30" y="68" width="170" height="5" fill="url(#p)" transform="skewX(-12) translate(14 0)"/>
+</svg>
