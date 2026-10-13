@@ -18,7 +18,7 @@ Lightweight sports prototypes. Huge grip, huge fun, zero passengers.
 **Button:** See the Radical
 
 ### Card: GT4
-Race-prepared GT cars you might recognise from the road. Much louder in our version.
+Our Toyota GR Supra GT4: a road car you know, turned into a World Racing League weapon. Much louder in our version.
 **Button:** See the GT4
 
 ## Next race
@@ -26,7 +26,7 @@ Race-prepared GT cars you might recognise from the road. Much louder in our vers
 Event: [TBD]
 Date: [TBD]
 Venue: [TBD]
-Series: [TBD]
+Series: World Racing League (WRL)
 **Button:** Full Results
 
 ## Why partner with us

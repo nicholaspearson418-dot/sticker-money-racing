@@ -43,7 +43,7 @@ GT4 is a class of race cars developed from road-going sports cars. They keep the
 
 | Spec | Value |
 |---|---|
-| Model | [TBD] |
+| Model | Toyota GR Supra GT4 |
 | Car number | [TBD] |
 | Engine | [TBD] |
 | Power | [TBD] |
@@ -52,7 +52,7 @@ GT4 is a class of race cars developed from road-going sports cars. They keep the
 | Tyres | [TBD] |
 | Livery | [TBD] |
 | Driver(s) | [TBD] |
-| Series | [TBD] |
+| Series | World Racing League (WRL) |
 
 ## Photo slots
 - Radical hero shot: [TBD]
