@@ -57,7 +57,8 @@ p { margin: 0 0 1em; }
 .site-header.is-scrolled { box-shadow: 0 6px 24px rgba(0,0,0,.6); }
 .header-inner { display: flex; align-items: center; justify-content: space-between; min-height: 64px; gap: 16px; }
 .brand { display: flex; align-items: center; }
-.brand img { height: 44px; width: auto; }
+.brand img { height: 26px; width: auto; }
+@media (max-width: 400px) { .brand img { height: 20px; } }
 .nav-toggle {
   display: none; background: none; border: 1px solid var(--line); color: var(--text);
   width: 44px; height: 44px; border-radius: 4px; cursor: pointer; padding: 0;
