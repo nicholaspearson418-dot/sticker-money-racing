@@ -8,7 +8,7 @@
 
 ## Intro strip
 **Title:** Real racing. Real fun. Real good-looking.
-Sticker Money Racing is a race team built on one idea: every sticker on the car is earned, and every lap is a chance to show it. We race sports prototypes in Radical and production-based GT cars in GT4.
+Sticker Money Racing is a race team built on one idea: every lap is a chance to prove ourselves. We race sports prototypes in Radical and production-based GT cars in GT4.
 
 ## Two programs
 **Section title:** Two Programs. One Team.

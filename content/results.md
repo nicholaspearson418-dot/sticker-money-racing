@@ -22,7 +22,7 @@ Filter buttons: All · Radical · GT4
 
 ## Empty-season note
 Show this when the table has no real rows:
-**Title:** The season hasn't started. The stickers are still wet.
+**Title:** The season hasn't started yet.
 Results will land here as soon as we have some. Follow us for updates.
 **Button:** Follow the Team
 
