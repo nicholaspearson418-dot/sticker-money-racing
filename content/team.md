@@ -7,9 +7,9 @@
 ## Intro
 **Section title:** Who We Are
 Sticker Money Racing is a small, hungry team with big paint. We race in Radical and GT4, and we take the racing seriously and ourselves not very.
-Founded: [TBD]
-Based in: [TBD]
-Mission: [TBD]
+Founded by: John Pearson
+Based in: Dawsonville, GA
+Mission: To race hard, race clean and make every sticker on the car earn its spot: giving our drivers fast, reliable Radicals and GT4s, and giving our partners a team they're proud to be seen with.
 
 ## Member card format
 Use one card per person, in this exact shape:
